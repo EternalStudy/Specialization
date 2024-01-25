@@ -1,1 +1,2 @@
 # Специализация
+# Specialization
